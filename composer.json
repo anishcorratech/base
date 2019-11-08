@@ -1,0 +1,24 @@
+{
+    "name": "base/core",
+    "description": "Anish Basic Core",
+    "type": "project",
+    "license": [
+        "GNU General Public License v3.0",
+    "authors": [
+        {
+            "name": "Anish Asokan",
+            "email": "anisha+baseapp@corra.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-0": { 
+            "Example": "src/"
+        }
+    }
+}
