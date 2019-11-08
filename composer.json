@@ -1,12 +1,12 @@
 {
-    "name": "base/core",
-    "description": "Anish Basic Core",
+    "name": "base/base-php",
     "type": "project",
-    "license": [
-        "GNU General Public License v3.0",
+    "license": "GNU General Public License v3.0",
+    "homepage": "https://github.com/anishcorratech/base",
+    "description": "Base PHP Application",
     "authors": [
         {
-            "name": "Anish Asokan",
+            "name": "anishasokan",
             "email": "anisha+baseapp@corra.com"
         }
     ],
